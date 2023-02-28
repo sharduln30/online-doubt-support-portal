@@ -1,2 +1,5 @@
 # online-doubt-support-portal
-Hosted on Heroku: https://online-doubt-support-portal.herokuapp.com/
+Hosted on :
+https://online-doubt-support-portal-sharduln30.vercel.app/
+https://online-doubt-support-portal-sharduln30.vercel.app/
+https://online-doubt-support-portal-git-master-sharduln30.vercel.app/
